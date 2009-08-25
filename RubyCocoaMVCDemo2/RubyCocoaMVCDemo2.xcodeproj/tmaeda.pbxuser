@@ -1,0 +1,156 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A01F3DF81042CE3F00490550 /* RubyCocoaMVCDemo2 */;
+		activeTarget = 4DDCA7030ACC9A6100E082CE /* RubyCocoaMVCDemo2 */;
+		addToTargets = (
+			4DDCA7030ACC9A6100E082CE /* RubyCocoaMVCDemo2 */,
+		);
+		codeSenseManager = A01F3E011042CE5100490550 /* Code sense */;
+		executables = (
+			A01F3DF81042CE3F00490550 /* RubyCocoaMVCDemo2 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 272813631;
+			PBXWorkspaceStateSaveDate = 272813631;
+		};
+		perUserProjectItems = {
+			A01F3E7E10441C4800490550 /* PBXTextBookmark */ = A01F3E7E10441C4800490550 /* PBXTextBookmark */;
+			A01F3E7F10441C4800490550 /* PBXTextBookmark */ = A01F3E7F10441C4800490550 /* PBXTextBookmark */;
+			A01F3E8010441C4800490550 /* PBXTextBookmark */ = A01F3E8010441C4800490550 /* PBXTextBookmark */;
+			A01F3E8110441C4800490550 /* PBXTextBookmark */ = A01F3E8110441C4800490550 /* PBXTextBookmark */;
+			A01F3E8210441C4800490550 /* PBXTextBookmark */ = A01F3E8210441C4800490550 /* PBXTextBookmark */;
+		};
+		sourceControlManager = A01F3E001042CE5100490550 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4DDCA7030ACC9A6100E082CE /* RubyCocoaMVCDemo2 */ = {
+		activeExec = 0;
+		executables = (
+			A01F3DF81042CE3F00490550 /* RubyCocoaMVCDemo2 */,
+		);
+	};
+	A01F3DF81042CE3F00490550 /* RubyCocoaMVCDemo2 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = RubyCocoaMVCDemo2;
+		sourceDirectories = (
+		);
+	};
+	A01F3DFC1042CE5100490550 /* Counter.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 476}}";
+			sepNavSelRange = "{322, 0}";
+			sepNavVisRange = "{212, 215}";
+		};
+	};
+	A01F3DFD1042CE5100490550 /* CounterController.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 632}}";
+			sepNavSelRange = "{357, 0}";
+			sepNavVisRange = "{138, 289}";
+		};
+	};
+	A01F3E001042CE5100490550 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	A01F3E011042CE5100490550 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A01F3E7E10441C4800490550 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A01F3DFD1042CE5100490550 /* CounterController.rb */;
+		name = "CounterController.rb: 19";
+		rLen = 0;
+		rLoc = 357;
+		rType = 0;
+		vrLen = 289;
+		vrLoc = 138;
+	};
+	A01F3E7F10441C4800490550 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A01F3DFC1042CE5100490550 /* Counter.rb */;
+		name = "Counter.rb: 21";
+		rLen = 0;
+		rLoc = 298;
+		rType = 0;
+		vrLen = 237;
+		vrLoc = 186;
+	};
+	A01F3E8010441C4800490550 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A01F3DFC1042CE5100490550 /* Counter.rb */;
+		name = "Counter.rb: 21";
+		rLen = 0;
+		rLoc = 298;
+		rType = 0;
+		vrLen = 237;
+		vrLoc = 186;
+	};
+	A01F3E8110441C4800490550 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A01F3DFD1042CE5100490550 /* CounterController.rb */;
+		name = "CounterController.rb: 19";
+		rLen = 0;
+		rLoc = 357;
+		rType = 0;
+		vrLen = 289;
+		vrLoc = 138;
+	};
+	A01F3E8210441C4800490550 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A01F3DFC1042CE5100490550 /* Counter.rb */;
+		name = "Counter.rb: 24";
+		rLen = 0;
+		rLoc = 322;
+		rType = 0;
+		vrLen = 215;
+		vrLoc = 212;
+	};
+}
